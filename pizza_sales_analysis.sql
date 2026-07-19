@@ -1,18 +1,3 @@
-CREATE DATABASE Dominos;
-
-create table orders (
-order_id int not null primary key,
-order_date date not null,
-order_time time not null
-);
-create table ordrs_details (
-order_details_id int not null primary key,
-order_id int not null,
-pizza_id text not null,
-quantity int not null
-);
-alter table ordrs_details
-rename Orders_details;
 -- Basics Question 5 / Intermediate level 6 / Advance Level 3
 -- 1 Retrieve the total number of orders placed?
 SELECT 

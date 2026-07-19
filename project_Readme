@@ -62,7 +62,15 @@ This analysis can help a pizza business:
 - Improve sales strategies
 - Focus on high-revenue products
 
+## 📁 Project Files
 
-## 👨‍💻 Rohit Shaw
+- `pizza_sales_analysis.sql` — SQL queries
+- `Pizza_Sales_Analysis.pdf` — Project presentation
+- `database_schema.png` — Database structure
+- `screenshots/` — Query outputs
+
+## 👨‍💻 Author
+
+Rohit Shaw
 
 Aspiring Data Analyst

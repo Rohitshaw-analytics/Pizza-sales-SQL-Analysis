@@ -1,1 +1,66 @@
-# Pizza-sales-SQL-Analysis
+# 🍕 Pizza Sales Analysis Using SQL
+
+## 📌 Project Overview
+
+This project analyzes pizza sales data using MySQL to generate meaningful business insights related to sales performance, revenue, product performance, and customer preferences.
+
+## 🎯 Business Objective
+
+The objective of this project is to analyze pizza sales data and answer real-world business questions using SQL.
+
+## 🗂️ Database Structure
+
+The database contains four tables:
+
+- Orders
+- Order Details
+- Pizzas
+- Pizza Types
+
+## 🛠️ Tools Used
+
+- MySQL
+- MySQL Workbench
+- SQL
+
+## 🔍 Key Analysis Performed
+
+- Total number of orders
+- Total revenue generated
+- Highest-priced pizza
+- Most popular pizza size
+- Top 5 best-selling pizza types
+- Category-wise pizza sales
+- Orders by hour of the day
+- Average pizzas ordered per day
+- Top revenue-generating pizza types
+- Revenue contribution percentage
+- Cumulative revenue over time
+- Top 3 pizza types by category
+
+## 💡 SQL Concepts Used
+
+- SELECT
+- WHERE
+- JOIN
+- GROUP BY
+- HAVING
+- Aggregate Functions
+- ORDER BY
+- Subqueries
+- Window Functions
+- Ranking Functions
+
+## 📊 Business Insights
+
+This analysis can help a pizza business:
+
+- Identify best-selling products
+- Understand customer preferences
+- Plan inventory
+- Identify peak ordering hours
+- Improve sales strategies
+- Focus on high-revenue products
+
+## 👨‍💻 Rohit Shaw
+Aspiring Data Analyst

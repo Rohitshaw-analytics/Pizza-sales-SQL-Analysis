@@ -1,68 +1,15 @@
-[pizza_sales_Analysis.pdf.Presentation.pdf](https://github.com/user-attachments/files/30163683/pizza_sales_Analysis.pdf.Presentation.pdf)
-
-# 🍕 Pizza Sales Analysis Using SQL
-
-## 📌 Project Overview
-
-This project analyzes pizza sales data using MySQL to generate meaningful business insights related to sales performance, revenue, product performance, and customer preferences.
-
-## 🎯 Business Objective
-
-The objective of this project is to analyze pizza sales data and answer real-world business questions using SQL.
-
-## 🗂️ Database Structure
-
-The database contains four tables:
-
-- Orders
-- Order Details
-- Pizzas
-- Pizza Types
-
-## 🛠️ Tools Used
-
-- MySQL
-- MySQL Workbench
-- SQL
-
-## 🔍 Key Analysis Performed
-
-- Total number of orders
-- Total revenue generated
-- Highest-priced pizza
-- Most popular pizza size
-- Top 5 best-selling pizza types
-- Category-wise pizza sales
-- Orders by hour of the day
-- Average pizzas ordered per day
-- Top revenue-generating pizza types
-- Revenue contribution percentage
-- Cumulative revenue over time
-- Top 3 pizza types by category
-
-## 💡 SQL Concepts Used
-
-- SELECT
-- WHERE
-- JOIN
-- GROUP BY
-- HAVING
-- Aggregate Functions
-- ORDER BY
-- Subqueries
-- Window Functions
-- Ranking Functions
-
-## 📊 Business Insights
-
-This analysis can help a pizza business:
-
-- Identify best-selling products
-- Understand customer preferences
-- Plan inventory
-- Identify peak ordering hours
-- Improve sales strategies
-- Focus on high-revenue products
-
-## 👨‍💻 Rohit Shaw
-Aspiring Data Analyst
+<img width="3000" height="1688" alt="pizza_sales_Analysis pdf Presentation_page-0015" src="https://github.com/user-attachments/assets/88e2a2eb-39e7-4116-bed8-678df125ad93" />
+<img width="3000" height="1688" alt="pizza_sales_Analysis pdf Presentation_page-0014" src="https://github.com/user-attachments/assets/6c5308b2-e1d2-42cd-b6dd-e1a2f6bf7d9d" />
+<img width="3000" height="1688" alt="pizza_sales_Analysis pdf Presentation_page-0013" src="https://github.com/user-attachments/assets/5f74660c-d656-454c-9781-5cf9444e30e6" />
+<img width="3000" height="1688" alt="pizza_sales_Analysis pdf Presentation_page-0012" src="https://github.com/user-attachments/assets/2abf9fbf-f20d-45b0-a601-d7de16958b11" />
+<img width="3000" height="1688" alt="pizza_sales_Analysis pdf Presentation_page-0011" src="https://github.com/user-attachments/assets/69d60b35-4600-4d40-bc07-9a9649bff218" />
+<img width="3000" height="1688" alt="pizza_sales_Analysis pdf Presentation_page-0010" src="https://github.com/user-attachments/assets/92fdc2a5-932b-4abf-9583-a4bf9b99192b" />
+<img width="3000" height="1688" alt="pizza_sales_Analysis pdf Presentation_page-0009" src="https://github.com/user-attachments/assets/97910620-11b5-4629-bda7-1eb08005c29c" />
+<img width="3000" height="1688" alt="pizza_sales_Analysis pdf Presentation_page-0008" src="https://github.com/user-attachments/assets/d2d4d3a1-3f08-42de-909e-3cd82612fea1" />
+<img width="3000" height="1688" alt="pizza_sales_Analysis pdf Presentation_page-0007" src="https://github.com/user-attachments/assets/980abafe-81e5-43ca-896e-9ef0cf52b1fd" />
+<img width="3000" height="1688" alt="pizza_sales_Analysis pdf Presentation_page-0006" src="https://github.com/user-attachments/assets/20cd0252-037e-49a9-a2b4-8c8960590330" />
+<img width="3000" height="1688" alt="pizza_sales_Analysis pdf Presentation_page-0005" src="https://github.com/user-attachments/assets/a97312d1-fdfa-4c61-bf6a-f8850de942af" />
+<img width="3000" height="1688" alt="pizza_sales_Analysis pdf Presentation_page-0004" src="https://github.com/user-attachments/assets/477aafb0-b036-4912-b9f2-0f30043e1ddc" />
+<img width="3000" height="1688" alt="pizza_sales_Analysis pdf Presentation_page-0003" src="https://github.com/user-attachments/assets/67879e88-6687-4bf4-b405-c42015b3cedc" />
+<img width="3000" height="1688" alt="pizza_sales_Analysis pdf Presentation_page-0002" src="https://github.com/user-attachments/assets/aa2a9f01-3fb6-42e5-9cb7-cb7faf650db4" />
+<img width="3000" height="1688" alt="pizza_sales_Analysis pdf Presentation_page-0001" src="https://github.com/user-attachments/assets/7dbcf7a0-45da-42d8-88a4-9f805fb0bf3c" />
